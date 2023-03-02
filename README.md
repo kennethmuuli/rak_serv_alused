@@ -21,4 +21,7 @@ Github Student Developer Pack contents (domeeni nime regamine): https://educatio
    - E-posti seadistamine: zoho.com
       - kenneth@kmuuli.live
 
+### 02.03.2023
+https://cloud.mongodb.com/ - kasutaja googlega
+https://ngrok.com/ - kasutaja googlega
 
